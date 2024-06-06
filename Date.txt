@@ -1,3 +1,4 @@
 struct Date{
-
+	int d=0;
+	int m=0;
 };
