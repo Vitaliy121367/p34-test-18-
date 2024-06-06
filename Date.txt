@@ -1,4 +1,7 @@
 struct Date{
 	int d=0;
 	int m=0;
+	int year = 0;
+
+void showData();
 };
